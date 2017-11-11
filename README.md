@@ -1,5 +1,5 @@
 ## The Unix Workbench Assignment
 
-sáb nov 11 04:21:39 CST 2017
+- **Date:  sáb nov 11 04:53:45 CST 2017
 
-31 guessinggame.sh
+- **Lines in guessinggame.sh:  31

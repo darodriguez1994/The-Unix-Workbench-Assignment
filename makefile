@@ -2,6 +2,6 @@ README.md: guessinggame.sh
 	touch README.md
 	echo "## The Unix Workbench Assignment" >> README.md
 	echo "" >> README.md
-	date >> README.md
+	echo "- **Date: " `date` >> README.md
 	echo "" >> README.md
-	wc -l guessinggame.sh >> README.md
+	echo "- **Lines in guessinggame.sh: " `cat guessinggame.sh | wc -l`  >> README.md
